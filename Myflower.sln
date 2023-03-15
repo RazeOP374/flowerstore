@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MdFlower.Api", "Flower.Api\MdFlower.Api.csproj", "{FB8594A1-335B-4712-A18B-BD2A64F1E141}"
+	ProjectSection(ProjectDependencies) = postProject
+		{0419C3D1-CE4B-4776-BE38-97DF154CC696} = {0419C3D1-CE4B-4776-BE38-97DF154CC696}
+		{88A78E21-AC25-408C-9008-89DE941D875C} = {88A78E21-AC25-408C-9008-89DE941D875C}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MdFlower.Model", "Flower.Model\MdFlower.Model.csproj", "{0419C3D1-CE4B-4776-BE38-97DF154CC696}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MdFlower.Common", "Flower.Common\MdFlower.Common.csproj", "{88A78E21-AC25-408C-9008-89DE941D875C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MdFlower.Service", "MdFlower.Service\MdFlower.Service.csproj", "{581185BD-D3D7-47AD-9A4B-27938400B9E5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{33B82373-0F32-410E-9348-67456357954D}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB8594A1-335B-4712-A18B-BD2A64F1E141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB8594A1-335B-4712-A18B-BD2A64F1E141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB8594A1-335B-4712-A18B-BD2A64F1E141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB8594A1-335B-4712-A18B-BD2A64F1E141}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0419C3D1-CE4B-4776-BE38-97DF154CC696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0419C3D1-CE4B-4776-BE38-97DF154CC696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0419C3D1-CE4B-4776-BE38-97DF154CC696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0419C3D1-CE4B-4776-BE38-97DF154CC696}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88A78E21-AC25-408C-9008-89DE941D875C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88A78E21-AC25-408C-9008-89DE941D875C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88A78E21-AC25-408C-9008-89DE941D875C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88A78E21-AC25-408C-9008-89DE941D875C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{581185BD-D3D7-47AD-9A4B-27938400B9E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{581185BD-D3D7-47AD-9A4B-27938400B9E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{581185BD-D3D7-47AD-9A4B-27938400B9E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{581185BD-D3D7-47AD-9A4B-27938400B9E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F75ED6BA-30A1-48EA-A4CD-B2998798624A}
+	EndGlobalSection
+EndGlobal
