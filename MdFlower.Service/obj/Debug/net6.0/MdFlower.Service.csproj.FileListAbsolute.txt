@@ -1,0 +1,17 @@
+C:\Users\49140\Desktop\demo\Myflower\MdFlower.Service\bin\Debug\net6.0\MdFlower.Service.deps.json
+C:\Users\49140\Desktop\demo\Myflower\MdFlower.Service\bin\Debug\net6.0\MdFlower.Service.dll
+C:\Users\49140\Desktop\demo\Myflower\MdFlower.Service\bin\Debug\net6.0\MdFlower.Service.pdb
+C:\Users\49140\Desktop\demo\Myflower\MdFlower.Service\bin\Debug\net6.0\MdFlower.Model.dll
+C:\Users\49140\Desktop\demo\Myflower\MdFlower.Service\bin\Debug\net6.0\MdFlower.Model.pdb
+C:\Users\49140\Desktop\demo\Myflower\MdFlower.Service\obj\Debug\net6.0\MdFlower.Service.csproj.AssemblyReference.cache
+C:\Users\49140\Desktop\demo\Myflower\MdFlower.Service\obj\Debug\net6.0\MdFlower.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49140\Desktop\demo\Myflower\MdFlower.Service\obj\Debug\net6.0\MdFlower.Service.AssemblyInfoInputs.cache
+C:\Users\49140\Desktop\demo\Myflower\MdFlower.Service\obj\Debug\net6.0\MdFlower.Service.AssemblyInfo.cs
+C:\Users\49140\Desktop\demo\Myflower\MdFlower.Service\obj\Debug\net6.0\MdFlower.Service.csproj.CoreCompileInputs.cache
+C:\Users\49140\Desktop\demo\Myflower\MdFlower.Service\obj\Debug\net6.0\MdFlower.Service.csproj.CopyComplete
+C:\Users\49140\Desktop\demo\Myflower\MdFlower.Service\obj\Debug\net6.0\MdFlower.Service.dll
+C:\Users\49140\Desktop\demo\Myflower\MdFlower.Service\obj\Debug\net6.0\refint\MdFlower.Service.dll
+C:\Users\49140\Desktop\demo\Myflower\MdFlower.Service\obj\Debug\net6.0\MdFlower.Service.pdb
+C:\Users\49140\Desktop\demo\Myflower\MdFlower.Service\obj\Debug\net6.0\ref\MdFlower.Service.dll
+C:\Users\49140\Desktop\demo\Myflower\MdFlower.Service\bin\Debug\net6.0\MdFlower.Common.dll
+C:\Users\49140\Desktop\demo\Myflower\MdFlower.Service\bin\Debug\net6.0\MdFlower.Common.pdb
