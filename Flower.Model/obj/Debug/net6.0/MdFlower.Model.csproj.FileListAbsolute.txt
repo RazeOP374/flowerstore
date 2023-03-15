@@ -1,0 +1,12 @@
+C:\Users\49140\Desktop\demo\Myflower\Flower.Model\bin\Debug\net6.0\MdFlower.Model.deps.json
+C:\Users\49140\Desktop\demo\Myflower\Flower.Model\bin\Debug\net6.0\MdFlower.Model.dll
+C:\Users\49140\Desktop\demo\Myflower\Flower.Model\bin\Debug\net6.0\MdFlower.Model.pdb
+C:\Users\49140\Desktop\demo\Myflower\Flower.Model\obj\Debug\net6.0\MdFlower.Model.csproj.AssemblyReference.cache
+C:\Users\49140\Desktop\demo\Myflower\Flower.Model\obj\Debug\net6.0\MdFlower.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49140\Desktop\demo\Myflower\Flower.Model\obj\Debug\net6.0\MdFlower.Model.AssemblyInfoInputs.cache
+C:\Users\49140\Desktop\demo\Myflower\Flower.Model\obj\Debug\net6.0\MdFlower.Model.AssemblyInfo.cs
+C:\Users\49140\Desktop\demo\Myflower\Flower.Model\obj\Debug\net6.0\MdFlower.Model.csproj.CoreCompileInputs.cache
+C:\Users\49140\Desktop\demo\Myflower\Flower.Model\obj\Debug\net6.0\MdFlower.Model.dll
+C:\Users\49140\Desktop\demo\Myflower\Flower.Model\obj\Debug\net6.0\refint\MdFlower.Model.dll
+C:\Users\49140\Desktop\demo\Myflower\Flower.Model\obj\Debug\net6.0\MdFlower.Model.pdb
+C:\Users\49140\Desktop\demo\Myflower\Flower.Model\obj\Debug\net6.0\ref\MdFlower.Model.dll
